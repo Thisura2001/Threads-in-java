@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Thread-priority" />
         <module name="lambda" />
+        <module name="test" />
         <module name="how-to-create-thread" />
         <module name="join-isAlive" />
         <module name="Syncronized" />

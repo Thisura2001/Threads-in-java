@@ -6,9 +6,6 @@ public class main {
         Two two = new Two();
         one.start();
         two.start();
-
-        one.run();
         Thread.sleep(700);
-        two.run();
     }
 }
